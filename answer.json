@@ -1,0 +1,23 @@
+{
+    "update_id": 703750733,
+    "message": {
+        "message_id": 9,
+        "from": {
+            "id": 241396725,
+            "is_bot": false,
+            "first_name": "Eugene",
+            "last_name": "Bunin",
+            "username": "eugenebunin",
+            "language_code": "ru-RU"
+        },
+        "chat": {
+            "id": 241396725,
+            "first_name": "Eugene",
+            "last_name": "Bunin",
+            "username": "eugenebunin",
+            "type": "private"
+        },
+        "date": 1530710640,
+        "text": "Dfdvh"
+    }
+}
